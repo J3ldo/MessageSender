@@ -1,2 +1,2 @@
 # MessageSender
-A simple program that sends messages.
+A simple program that sends messages. By faking keypresses
